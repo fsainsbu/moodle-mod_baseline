@@ -1,0 +1,34 @@
+* check alert code.
+ grep -i entrybad *
+edit.php:               if ($BadResult)  notify(get_string('entrybad','baseline'));
+if the last  two entries worse than baseline for any not weight or height
+* check flow
+* check menus in flow
+* stop change url stop changes to url
+ remove delete options.. (in template)
+* set order via mobile id for selects.
+fix field.php not displaying header
+check mentor can see user.
+* settings tab alignment. choice.php
+Jenny's issue. ie 8?
+* weight displays badly in view.php template issue
+remove second summary help
+* (reduce header size.)
+*  remove mangeentries from user???
+* Hosting
+* setup logging from google analytics
+adult BMI
+* Then there is the consideration if weight drops by >5% over 2 months - this is also "Yellow"   if max(weight) timecreated interval 2 months  *.95 > current weight alert.
+
+Could the y-axis remain as Weight (kg) and then have the x-axis as monthly dates to allow the relatively easy assessment of loss over 2 months.  Although I do think that most won't keep their weight for this period of time. 
+ I wasn't able to find where I can edit her profile if I want to when i go back into the website
+ when I first entered the diary the text was still in the wrong layout - that is the initial explanation when you are going into the baseline for the first time - so it was all centred rather than justified to the left
+Replaced notify with print heading.
+* when I was reviewing my report of the sympoms entered the symptom tables had extra lines throughout them
+* there seems to be an error on some of the questions when looking at the reporting, so worse than usual coming up on a symptom when actually I have entered a symptom that is better than usual. I have not gone through all of them but it certainly appeared on the bowel motions and the tummy pain questions on first review
+ the baseline summary page - how difficult is it to put the speech bubbles on these icons when you hover over? it is hard to look at the icons and see what your baseline actually is
+locate number in param1, find in param3 text, ad javascipt overlib as in field/pbutton/field.php 
+* tidy database
+
+
+check db directory with  data, use the data/baseline
